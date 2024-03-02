@@ -18,6 +18,7 @@
     echo "<p>Nama saya <b>$nama</b></p>";
     echo "<p>Saya berkuliah di $unv</p>";
     echo "<p>Sekarang saya sudah berada di tingkat semester $smt</p>";
+    echo "<p>Kesan saya banyak syntax yang dipermudah dalam php</p>";
     ?>
 </body>
 </html>
